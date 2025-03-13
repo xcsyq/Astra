@@ -81,9 +81,6 @@ local settingsTable = {
 		-- buildwarnings
 		-- rayfieldprompts
 
-	},
-	System = {
-		usageAnalytics = {Type = 'toggle', Value = false, Name = 'Anonymised Analytics'},
 	}
 }
 
