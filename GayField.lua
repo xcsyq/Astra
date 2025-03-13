@@ -480,11 +480,11 @@ local RayfieldLibrary = {
 		},
 
 		Bloom = {
-			TextColor = Color3.fromRGB(60, 40, 50),
+			TextColor = Color3.fromRGB(223, 212, 255),
 
-			Background = Color3.fromRGB(255, 240, 245),
-			Topbar = Color3.fromRGB(250, 220, 225),
-			Shadow = Color3.fromRGB(230, 190, 195),
+			Background = Color3.fromRGB(63, 56, 74),
+			Topbar = Color3.fromRGB(62, 45, 110),
+			Shadow = Color3.fromRGB(197, 169, 219),
 
 			NotificationBackground = Color3.fromRGB(255, 235, 240),
 			NotificationActionsBackground = Color3.fromRGB(245, 215, 225),
